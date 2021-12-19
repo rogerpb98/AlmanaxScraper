@@ -10,5 +10,5 @@ pip install beautifulsoup4
 ```
 pip install requests
 ```
-And manually set the range of days you want to scrape here
+And manually set the range of days you want to scrape here  
 ![](https://i.imgur.com/BhF6UsT.png)
