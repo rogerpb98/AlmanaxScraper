@@ -33,7 +33,7 @@ def extractQuest(document):
     almanaxQuest = almanaxQuest.strip()
     almanaxQuest = almanaxQuest.replace("<b>", '')
     almanaxQuest = almanaxQuest.replace("</b>", '')
-    #print(almanaxQuest)
+    
     return almanaxQuest
 
 def extractItem(string):
@@ -58,8 +58,6 @@ def main():
     data = {}
     data['Almanax'] = []
 
-    log = []
-
     while start_date <= end_date: #Iterate through all dates
         url = "http://www.krosmoz.com/en/almanax/"+str(start_date)+""
 
@@ -69,9 +67,6 @@ def main():
         bonus = extractBonus(doc)
         quest = extractQuest(doc)
         item = extractItem(quest)
-
-        #Log info that we will write on a log file later to check outputs
-        log.append(str(start_date) +" - "+ bonus +" \n")
 
         data['Almanax'].append({
             'date': str(start_date),
@@ -88,12 +83,5 @@ def main():
     with open('data.json', 'w') as outfile:
         json.dump(data, outfile)
 
-    logOutput(log)
-
 if __name__ == "__main__":
     main()
-    '''url = "http://www.krosmoz.com/en/almanax/2021-04-04"
-
-    result = requests.get(url)
-    doc = BeautifulSoup(result.text, "html.parser")
-    extractQuest(doc)'''
