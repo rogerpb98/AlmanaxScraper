@@ -9,7 +9,7 @@
                 "quantity": "2",
                 "name": "Explosive Capsule"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -22,7 +22,7 @@
                 "quantity": "1",
                 "name": "Mushmunch Tongue"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -35,7 +35,7 @@
                 "quantity": "2",
                 "name": "Light Treeckler Stump"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -48,7 +48,7 @@
                 "quantity": "1",
                 "name": "Oni Blood"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-05",
@@ -59,7 +59,7 @@
                 "quantity": "2",
                 "name": "Mufafah Moustache"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-06",
@@ -70,7 +70,7 @@
                 "quantity": "15",
                 "name": "Maple Wood"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-07",
@@ -81,7 +81,7 @@
                 "quantity": "5",
                 "name": "Meatball"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -94,7 +94,7 @@
                 "quantity": "10",
                 "name": "Potatoes"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-09",
@@ -105,7 +105,7 @@
                 "quantity": "2",
                 "name": "Medicinal Stone"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -118,7 +118,7 @@
                 "quantity": "3",
                 "name": "Twiggy Shovel"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-11",
@@ -129,7 +129,7 @@
                 "quantity": "1",
                 "name": "Green Scaraleaf Carapace"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -142,7 +142,7 @@
                 "quantity": "20",
                 "name": "Malt"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-13",
@@ -153,7 +153,7 @@
                 "quantity": "1",
                 "name": "Small Harvester Bag"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-14",
@@ -164,7 +164,7 @@
                 "quantity": "2",
                 "name": "Smithy Daggers"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-15",
@@ -175,7 +175,7 @@
                 "quantity": "11",
                 "name": "Gobball Wool"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-16",
@@ -186,7 +186,7 @@
                 "quantity": "40",
                 "name": "Nettles"
             },
-            "category": [
+            "categories": [
                 "Ressource respawn rate"
             ]
         },
@@ -199,7 +199,7 @@
                 "quantity": "2",
                 "name": "Mopy King Fabric"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -212,7 +212,7 @@
                 "quantity": "3",
                 "name": "Flowistil Pistil"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-19",
@@ -223,7 +223,7 @@
                 "quantity": "12",
                 "name": "Tin"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-20",
@@ -234,7 +234,7 @@
                 "quantity": "2",
                 "name": "Carbon Paper"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -247,7 +247,7 @@
                 "quantity": "1",
                 "name": "Purple Cloak"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -260,7 +260,7 @@
                 "quantity": "2",
                 "name": "Yokai Snowfoux Wool"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-23",
@@ -271,7 +271,7 @@
                 "quantity": "12",
                 "name": "Perch"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-24",
@@ -282,7 +282,7 @@
                 "quantity": "1",
                 "name": "Cawwot"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-25",
@@ -293,7 +293,7 @@
                 "quantity": "2",
                 "name": "Snailmet Slobber"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -306,7 +306,7 @@
                 "quantity": "6",
                 "name": "Gobbly Horn"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-27",
@@ -317,7 +317,7 @@
                 "quantity": "10",
                 "name": "Solid Bread"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -330,7 +330,7 @@
                 "quantity": "2",
                 "name": "Blood-Soaked Meat"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-29",
@@ -341,7 +341,7 @@
                 "quantity": "2",
                 "name": "Koalak Forester Hair"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-05-30",
@@ -352,7 +352,7 @@
                 "quantity": "7",
                 "name": "Clay Dreggon Shell"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -365,7 +365,7 @@
                 "quantity": "2",
                 "name": "Dramanita Gill"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -378,7 +378,7 @@
                 "quantity": "5",
                 "name": "Crab Pincer"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-02",
@@ -389,7 +389,7 @@
                 "quantity": "15",
                 "name": "Shiny Sardine"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -402,7 +402,7 @@
                 "quantity": "2",
                 "name": "Seed of Contention"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-04",
@@ -413,7 +413,7 @@
                 "quantity": "2",
                 "name": "Counterfeit Royal Seal"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-05",
@@ -424,7 +424,7 @@
                 "quantity": "10",
                 "name": "Gold"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-06",
@@ -435,7 +435,7 @@
                 "quantity": "2",
                 "name": "Harrogant Eye"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -448,7 +448,7 @@
                 "quantity": "2",
                 "name": "Kami Snowfoux Incisor"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -461,7 +461,7 @@
                 "quantity": "2",
                 "name": "Bambooto Stalk"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-09",
@@ -472,7 +472,7 @@
                 "quantity": "10",
                 "name": "Freyesque Orchid"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-10",
@@ -483,7 +483,7 @@
                 "quantity": "5",
                 "name": "Almond Dragoturkey Peak"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-11",
@@ -494,7 +494,7 @@
                 "quantity": "2",
                 "name": "Kokostraw"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -507,7 +507,7 @@
                 "quantity": "2",
                 "name": "Ice Wand"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-13",
@@ -518,7 +518,7 @@
                 "quantity": "1",
                 "name": "Mush Rhume Slobber"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -531,7 +531,7 @@
                 "quantity": "1",
                 "name": "Field Dungeon Key"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -544,7 +544,7 @@
                 "quantity": "12",
                 "name": "Cherry Wood"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-16",
@@ -555,7 +555,7 @@
                 "quantity": "7",
                 "name": "Slate Dreggon Shell"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-17",
@@ -566,7 +566,7 @@
                 "quantity": "2",
                 "name": "Bulbush Thorn"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -579,7 +579,7 @@
                 "quantity": "2",
                 "name": "Dragandrop Hide"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -592,7 +592,7 @@
                 "quantity": "5",
                 "name": "Spitfoux Skin"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-20",
@@ -603,7 +603,7 @@
                 "quantity": "40",
                 "name": "Wheat"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-21",
@@ -614,7 +614,7 @@
                 "quantity": "2",
                 "name": "Marine Conch"
             },
-            "category": [
+            "categories": [
                 "Drop rate",
                 "Exp rate"
             ]
@@ -628,7 +628,7 @@
                 "quantity": "2",
                 "name": "Craboral Pincer"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-23",
@@ -639,7 +639,7 @@
                 "quantity": "2",
                 "name": "Snailmet Slobber"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -652,7 +652,7 @@
                 "quantity": "4",
                 "name": "Scarecro Tongue"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -665,7 +665,7 @@
                 "quantity": "40",
                 "name": "Iron"
             },
-            "category": [
+            "categories": [
                 "Ressource respawn rate"
             ]
         },
@@ -678,7 +678,7 @@
                 "quantity": "1",
                 "name": "Minor Dagob"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -691,7 +691,7 @@
                 "quantity": "2",
                 "name": "Old Kralove Sucker"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -704,7 +704,7 @@
                 "quantity": "7",
                 "name": "Treechnid Root"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-29",
@@ -715,7 +715,7 @@
                 "quantity": "4",
                 "name": "Contaminated Meat"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-06-30",
@@ -726,7 +726,7 @@
                 "quantity": "3",
                 "name": "Manderisha Skin"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -739,7 +739,7 @@
                 "quantity": "4",
                 "name": "Crocodyl Chief Scale"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -752,7 +752,7 @@
                 "quantity": "6",
                 "name": "Boar Tusk"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-03",
@@ -763,7 +763,7 @@
                 "quantity": "7",
                 "name": "Mini Healing Potion"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -776,7 +776,7 @@
                 "quantity": "2",
                 "name": "Sesame Seed Bread"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-05",
@@ -787,7 +787,7 @@
                 "quantity": "1",
                 "name": "Magic Tanuki Hairs"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-06",
@@ -798,7 +798,7 @@
                 "quantity": "40",
                 "name": "Kittenfish"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-07",
@@ -809,7 +809,7 @@
                 "quantity": "2",
                 "name": "Solfatara Residue"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -822,7 +822,7 @@
                 "quantity": "8",
                 "name": "Gobkool Wool"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -835,7 +835,7 @@
                 "quantity": "20",
                 "name": "Ash Wood"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -848,7 +848,7 @@
                 "quantity": "1",
                 "name": "Eco Bow"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-11",
@@ -859,7 +859,7 @@
                 "quantity": "10",
                 "name": "Bauxite"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-12",
@@ -870,7 +870,7 @@
                 "quantity": "2",
                 "name": "Mastogob Wool"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-13",
@@ -881,7 +881,7 @@
                 "quantity": "2",
                 "name": "Atomystique Stone"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -894,7 +894,7 @@
                 "quantity": "2",
                 "name": "Broken Chains"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -907,7 +907,7 @@
                 "quantity": "3",
                 "name": "Marbled Meat"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-16",
@@ -918,7 +918,7 @@
                 "quantity": "2",
                 "name": "Venerable Mud"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -931,7 +931,7 @@
                 "quantity": "4",
                 "name": "Evil Dandelion Flower"
             },
-            "category": [
+            "categories": [
                 "Drop rate",
                 "Exp rate"
             ]
@@ -945,7 +945,7 @@
                 "quantity": "5",
                 "name": "Shrubstrate"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -958,7 +958,7 @@
                 "quantity": "2",
                 "name": "Coralator Coccyx"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -971,7 +971,7 @@
                 "quantity": "1",
                 "name": "Wild Sunflower Oil"
             },
-            "category": [
+            "categories": [
                 "Ressource respawn rate"
             ]
         },
@@ -984,7 +984,7 @@
                 "quantity": "2",
                 "name": "Precious Zoth Stone"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -997,7 +997,7 @@
                 "quantity": "2",
                 "name": "Gullipop Feather"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-23",
@@ -1008,7 +1008,7 @@
                 "quantity": "40",
                 "name": "Grawn"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-24",
@@ -1019,7 +1019,7 @@
                 "quantity": "1",
                 "name": "Elm Wood"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-25",
@@ -1030,7 +1030,7 @@
                 "quantity": "1",
                 "name": "Blodz Uker Skin"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-26",
@@ -1041,7 +1041,7 @@
                 "quantity": "2",
                 "name": "Cromagmunk Tail"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         },
@@ -1054,7 +1054,7 @@
                 "quantity": "8",
                 "name": "Astrubian Fritter"
             },
-            "category": [
+            "categories": [
                 "Crafting save"
             ]
         },
@@ -1067,7 +1067,7 @@
                 "quantity": "2",
                 "name": "Stabba Fibula"
             },
-            "category": []
+            "categories": []
         },
         {
             "date": "2021-07-29",
@@ -1078,7 +1078,7 @@
                 "quantity": "5",
                 "name": "Shinobuubusu Mask"
             },
-            "category": [
+            "categories": [
                 "Drop rate"
             ]
         },
@@ -1091,7 +1091,7 @@
                 "quantity": "4",
                 "name": "Vampire Blood"
             },
-            "category": [
+            "categories": [
                 "Drop rate",
                 "Exp rate"
             ]
@@ -1105,7 +1105,7 @@
                 "quantity": "2",
                 "name": "Novice Powder"
             },
-            "category": [
+            "categories": [
                 "Exp rate"
             ]
         }
