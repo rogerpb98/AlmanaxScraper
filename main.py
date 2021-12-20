@@ -46,24 +46,37 @@ def extractItem(string):
 
 def defineCategory(string):
     cats = []
+    # Professions
     if string.find("more quickly") >= 0 or string.find("quantity") >= 0 or string.find("resource protectors") >= 0:
-        cats.append("Gathering bonus")
-    if string.find("chances") >= 0:
-        cats.append("Drop rate")
+        cats.append("Gathering")
     if string.find("save") >= 0 or string.find(" chance ") >= 0:
         cats.append("Crafting save")
     if string.find("quality") >= 0:
-        cats.append("Crafting quality increase")
-    if string.find("Experience") >= 0:
-        cats.append("Exp rate")
-    if string.find("reward bonus") >= 0:
-        cats.append("Zone bonus rate")
-    if string.find("completing challenges") >= 0 or string.find("challenge ") >= 0:
-        cats.append("Challenge bonus")
+        cats.append("Crafting quality")
     if string.find("birth ") >= 0:
-        cats.append("Breeding bonus")
+        cats.append("Breeding")
+    # Combat
+    if string.find("chances") >= 0:
+        cats.append("Drop")
+    if string.find("Experience") >= 0:
+        profs = ["Alchemist", "Artificer", "Carver", "Craftsmen", "Smith", "Farmer", "Fisherman", "Handyman", "Hunter", "Jeweller", "Lumberjack", "Miner", "Shoemaker", "Tailor", "professions"]
+        for i in profs:
+            if string.find(i) >=0:
+                cats.append("Profession Xp")
+                break
+        if "Profession Xp" not in cats:
+            cats.append("Combat Xp")
+    if string.find("reward bonus") >= 0:
+        cats.append("Zone rate")
+    if string.find("completing challenges") >= 0 or string.find("challenge ") >= 0:
+        cats.append("Challenge")
+        if "Exp rate" not in cats:
+            cats.append("Combat Xp")
+        if "Drop rate" not in cats:
+            cats.append("Drop")
+    # etc
     if string.find("Perceptors") >= 0:
-        cats.append("Perceptor bonus")
+        cats.append("Perceptor")
     if not cats:
         cats.append("Miscellaneous")
     return cats
@@ -74,7 +87,7 @@ def overwriteJsonData(data):
 
 def main():
     start_date = datetime.date(2021, 5, 1)
-    end_date = datetime.date(2021, 7, 31)
+    end_date = datetime.date(2021, 12, 31)
 
     delta = datetime.timedelta(days=1)
 
