@@ -49,7 +49,7 @@
                 "name": "Oni Blood"
             },
             "categories": [
-                "Challenge rate bonus"
+                "Challenge bonus"
             ]
         },
         {
@@ -62,7 +62,7 @@
                 "name": "Mufafah Moustache"
             },
             "categories": [
-                "Extra Challenge"
+                "Challenge bonus"
             ]
         },
         {
@@ -75,7 +75,7 @@
                 "name": "Maple Wood"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -101,7 +101,7 @@
                 "name": "Potatoes"
             },
             "categories": [
-                "Repeatable quest"
+                "Miscellaneous"
             ]
         },
         {
@@ -153,7 +153,7 @@
                 "name": "Malt"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -166,7 +166,7 @@
                 "name": "Small Harvester Bag"
             },
             "categories": [
-                "Resource Protectors rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -205,7 +205,7 @@
                 "name": "Nettles"
             },
             "categories": [
-                "Ressource respawn rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -244,7 +244,7 @@
                 "name": "Tin"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -283,7 +283,7 @@
                 "name": "Yokai Snowfoux Wool"
             },
             "categories": [
-                "Extra Challenge"
+                "Challenge bonus"
             ]
         },
         {
@@ -296,7 +296,7 @@
                 "name": "Perch"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -309,7 +309,7 @@
                 "name": "Cawwot"
             },
             "categories": [
-                "Repeatable quest"
+                "Miscellaneous"
             ]
         },
         {
@@ -335,7 +335,7 @@
                 "name": "Gobbly Horn"
             },
             "categories": [
-                "Challenge rate bonus"
+                "Challenge bonus"
             ]
         },
         {
@@ -361,7 +361,7 @@
                 "name": "Blood-Soaked Meat"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -413,7 +413,7 @@
                 "name": "Crab Pincer"
             },
             "categories": [
-                "Extra Challenge"
+                "Challenge bonus"
             ]
         },
         {
@@ -439,7 +439,7 @@
                 "name": "Seed of Contention"
             },
             "categories": [
-                "Challenge rate bonus"
+                "Challenge bonus"
             ]
         },
         {
@@ -465,7 +465,7 @@
                 "name": "Gold"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -504,7 +504,7 @@
                 "name": "Bambooto Stalk"
             },
             "categories": [
-                "Challenge rate bonus"
+                "Challenge bonus"
             ]
         },
         {
@@ -517,7 +517,7 @@
                 "name": "Freyesque Orchid"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -595,7 +595,7 @@
                 "name": "Cherry Wood"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -608,7 +608,7 @@
                 "name": "Slate Dreggon Shell"
             },
             "categories": [
-                "Extra Challenge"
+                "Challenge bonus"
             ]
         },
         {
@@ -647,7 +647,7 @@
                 "name": "Spitfoux Skin"
             },
             "categories": [
-                "Challenge rate bonus"
+                "Challenge bonus"
             ]
         },
         {
@@ -660,7 +660,7 @@
                 "name": "Wheat"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -675,8 +675,7 @@
             "categories": [
                 "Drop rate",
                 "Exp rate",
-                "Challenge rate bonus",
-                "Extra Challenge"
+                "Challenge bonus"
             ]
         },
         {
@@ -728,7 +727,7 @@
                 "name": "Iron"
             },
             "categories": [
-                "Ressource respawn rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -780,7 +779,7 @@
                 "name": "Contaminated Meat"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -819,7 +818,7 @@
                 "name": "Boar Tusk"
             },
             "categories": [
-                "Extra Challenge"
+                "Challenge bonus"
             ]
         },
         {
@@ -858,7 +857,7 @@
                 "name": "Magic Tanuki Hairs"
             },
             "categories": [
-                "Challenge rate bonus"
+                "Challenge bonus"
             ]
         },
         {
@@ -871,7 +870,7 @@
                 "name": "Kittenfish"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -936,7 +935,7 @@
                 "name": "Bauxite"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -949,7 +948,7 @@
                 "name": "Mastogob Wool"
             },
             "categories": [
-                "Challenge rate bonus"
+                "Challenge bonus"
             ]
         },
         {
@@ -988,7 +987,7 @@
                 "name": "Marbled Meat"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -1054,7 +1053,7 @@
                 "name": "Wild Sunflower Oil"
             },
             "categories": [
-                "Ressource respawn rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -1080,7 +1079,7 @@
                 "name": "Gullipop Feather"
             },
             "categories": [
-                "Extra Challenge"
+                "Challenge bonus"
             ]
         },
         {
@@ -1106,7 +1105,7 @@
                 "name": "Elm Wood"
             },
             "categories": [
-                "Gathering rate"
+                "Gathering bonus"
             ]
         },
         {
@@ -1119,7 +1118,7 @@
                 "name": "Blodz Uker Skin"
             },
             "categories": [
-                "Challenge rate bonus"
+                "Challenge bonus"
             ]
         },
         {

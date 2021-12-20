@@ -46,10 +46,8 @@ def extractItem(string):
 
 def defineCategory(string):
     cats = []
-    if string.find("more quickly") >= 0:
-        cats.append("Ressource respawn rate")
-    if string.find("quantity") >= 0:
-        cats.append("Gathering rate")
+    if string.find("more quickly") >= 0 or string.find("quantity") >= 0 or string.find("resource protectors") >= 0:
+        cats.append("Gathering bonus")
     if string.find("chances") >= 0:
         cats.append("Drop rate")
     if string.find("save") >= 0 or string.find(" chance ") >= 0:
@@ -60,18 +58,12 @@ def defineCategory(string):
         cats.append("Exp rate")
     if string.find("reward bonus") >= 0:
         cats.append("Zone bonus rate")
-    if string.find("completing challenges") >= 0:
-        cats.append("Challenge rate bonus")
-    if string.find("challenge ") >= 0:
-        cats.append("Extra Challenge")
+    if string.find("completing challenges") >= 0 or string.find("challenge ") >= 0:
+        cats.append("Challenge bonus")
     if string.find("birth ") >= 0:
         cats.append("Breeding bonus")
     if string.find("Perceptors") >= 0:
         cats.append("Perceptor bonus")
-    if string.find("repeatable quest") >= 0:
-        cats.append("Repeatable quest")
-    if string.find("resource protectors") >= 0:
-        cats.append("Resource Protectors rate")
     if not cats:
         cats.append("Miscellaneous")
     return cats
