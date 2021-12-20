@@ -11,9 +11,9 @@ def sanitizeString(string):
 
 def extractBonus(document):
     #Find the div where the almanax bonus is
-    bonusDiv = document.find_all("div", {"class": "more"})
+    bonusDiv = document.find("div", {"class": "more"})
     #Extract the contents into an array because its a fucking mess
-    elements = bonusDiv[0].contents
+    elements = bonusDiv.contents
 
     almanaxBonus = ""
     #What we want is stored on the first 3 elements of the div
