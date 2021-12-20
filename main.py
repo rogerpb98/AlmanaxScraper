@@ -34,7 +34,7 @@ def extractQuest(document):
     almanaxQuest = str(children[2]) #this is where the quest itself is
 
     almanaxQuest = sanitizeString(almanaxQuest)
-    print(almanaxQuest)
+    #print(almanaxQuest)
     return almanaxQuest
 
 def extractItem(string):
@@ -45,21 +45,24 @@ def extractItem(string):
     return string
 
 def defineCategory(string):
-    if string.find("more quickly") < 0:
-        return "Ressource respawn rate"
-    if string.find("chances") < 0:
-        return "Drop rate"
-    if string.find("save") < 0 or string.find("chance") < 0:
-        return "Crafting save"
-    return ""
+    cats = []
+    if string.find("more quickly") >= 0:
+        cats.append("Ressource respawn rate")
+    if string.find("chances") >= 0:
+        cats.append("Drop rate")
+    if string.find("save") >= 0 or string.find(" chance ") >= 0:
+        cats.append("Crafting save")
+    if string.find("Experience") >= 0:
+        cats.append("Exp rate")
+    return cats
 
 def overwriteJsonData(data):
     with open('data.json', 'w') as outfile:
         json.dump(data, outfile)
 
 def main():
-    start_date = datetime.date(2021, 1, 1)
-    end_date = datetime.date(2021, 12, 31)
+    start_date = datetime.date(2021, 5, 1)
+    end_date = datetime.date(2021, 7, 31)
 
     delta = datetime.timedelta(days=1)
 
@@ -74,7 +77,7 @@ def main():
         bonus = extractBonus(doc)
         quest = extractQuest(doc)
         item = extractItem(quest)
-        #category = defineCategory(bonus)
+        categories = defineCategory(bonus)
 
         data['Almanax'].append({
             'date': str(start_date),
@@ -84,8 +87,8 @@ def main():
             'item': {
                 'quantity': item[0],
                 'name': " ".join(item[1:]) #Concatenates every word of the item name
-            }#,
-            #'category' : category
+            },
+            'categories' : categories
         })
         start_date += delta
     
