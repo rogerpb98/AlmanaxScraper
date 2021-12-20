@@ -73,7 +73,7 @@ def defineCategory(string):
     if string.find("resource protectors") >= 0:
         cats.append("Resource Protectors rate")
     if not cats:
-        cats.append("Miscellanious")
+        cats.append("Miscellaneous")
     return cats
 
 def overwriteJsonData(data):
