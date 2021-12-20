@@ -48,7 +48,9 @@
                 "quantity": "1",
                 "name": "Oni Blood"
             },
-            "categories": []
+            "categories": [
+                "Challenge rate bonus"
+            ]
         },
         {
             "date": "2021-05-05",
@@ -59,7 +61,9 @@
                 "quantity": "2",
                 "name": "Mufafah Moustache"
             },
-            "categories": []
+            "categories": [
+                "Extra Challenge"
+            ]
         },
         {
             "date": "2021-05-06",
@@ -70,7 +74,9 @@
                 "quantity": "15",
                 "name": "Maple Wood"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-05-07",
@@ -94,7 +100,9 @@
                 "quantity": "10",
                 "name": "Potatoes"
             },
-            "categories": []
+            "categories": [
+                "Repeatable quest"
+            ]
         },
         {
             "date": "2021-05-09",
@@ -118,7 +126,9 @@
                 "quantity": "3",
                 "name": "Twiggy Shovel"
             },
-            "categories": []
+            "categories": [
+                "Breeding bonus"
+            ]
         },
         {
             "date": "2021-05-11",
@@ -142,7 +152,9 @@
                 "quantity": "20",
                 "name": "Malt"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-05-13",
@@ -153,7 +165,9 @@
                 "quantity": "1",
                 "name": "Small Harvester Bag"
             },
-            "categories": []
+            "categories": [
+                "Resource Protectors rate"
+            ]
         },
         {
             "date": "2021-05-14",
@@ -164,7 +178,9 @@
                 "quantity": "2",
                 "name": "Smithy Daggers"
             },
-            "categories": []
+            "categories": [
+                "Crafting quality increase"
+            ]
         },
         {
             "date": "2021-05-15",
@@ -175,7 +191,9 @@
                 "quantity": "11",
                 "name": "Gobball Wool"
             },
-            "categories": []
+            "categories": [
+                "Miscellanious"
+            ]
         },
         {
             "date": "2021-05-16",
@@ -212,7 +230,9 @@
                 "quantity": "3",
                 "name": "Flowistil Pistil"
             },
-            "categories": []
+            "categories": [
+                "Zone bonus rate"
+            ]
         },
         {
             "date": "2021-05-19",
@@ -223,7 +243,9 @@
                 "quantity": "12",
                 "name": "Tin"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-05-20",
@@ -260,7 +282,9 @@
                 "quantity": "2",
                 "name": "Yokai Snowfoux Wool"
             },
-            "categories": []
+            "categories": [
+                "Extra Challenge"
+            ]
         },
         {
             "date": "2021-05-23",
@@ -271,7 +295,9 @@
                 "quantity": "12",
                 "name": "Perch"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-05-24",
@@ -282,7 +308,9 @@
                 "quantity": "1",
                 "name": "Cawwot"
             },
-            "categories": []
+            "categories": [
+                "Repeatable quest"
+            ]
         },
         {
             "date": "2021-05-25",
@@ -306,7 +334,9 @@
                 "quantity": "6",
                 "name": "Gobbly Horn"
             },
-            "categories": []
+            "categories": [
+                "Challenge rate bonus"
+            ]
         },
         {
             "date": "2021-05-27",
@@ -330,7 +360,9 @@
                 "quantity": "2",
                 "name": "Blood-Soaked Meat"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-05-29",
@@ -341,7 +373,9 @@
                 "quantity": "2",
                 "name": "Koalak Forester Hair"
             },
-            "categories": []
+            "categories": [
+                "Zone bonus rate"
+            ]
         },
         {
             "date": "2021-05-30",
@@ -378,7 +412,9 @@
                 "quantity": "5",
                 "name": "Crab Pincer"
             },
-            "categories": []
+            "categories": [
+                "Extra Challenge"
+            ]
         },
         {
             "date": "2021-06-02",
@@ -402,7 +438,9 @@
                 "quantity": "2",
                 "name": "Seed of Contention"
             },
-            "categories": []
+            "categories": [
+                "Challenge rate bonus"
+            ]
         },
         {
             "date": "2021-06-04",
@@ -413,7 +451,9 @@
                 "quantity": "2",
                 "name": "Counterfeit Royal Seal"
             },
-            "categories": []
+            "categories": [
+                "Perceptor bonus"
+            ]
         },
         {
             "date": "2021-06-05",
@@ -424,7 +464,9 @@
                 "quantity": "10",
                 "name": "Gold"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-06-06",
@@ -461,7 +503,9 @@
                 "quantity": "2",
                 "name": "Bambooto Stalk"
             },
-            "categories": []
+            "categories": [
+                "Challenge rate bonus"
+            ]
         },
         {
             "date": "2021-06-09",
@@ -472,7 +516,9 @@
                 "quantity": "10",
                 "name": "Freyesque Orchid"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-06-10",
@@ -483,7 +529,9 @@
                 "quantity": "5",
                 "name": "Almond Dragoturkey Peak"
             },
-            "categories": []
+            "categories": [
+                "Breeding bonus"
+            ]
         },
         {
             "date": "2021-06-11",
@@ -507,7 +555,9 @@
                 "quantity": "2",
                 "name": "Ice Wand"
             },
-            "categories": []
+            "categories": [
+                "Crafting quality increase"
+            ]
         },
         {
             "date": "2021-06-13",
@@ -544,7 +594,9 @@
                 "quantity": "12",
                 "name": "Cherry Wood"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-06-16",
@@ -555,7 +607,9 @@
                 "quantity": "7",
                 "name": "Slate Dreggon Shell"
             },
-            "categories": []
+            "categories": [
+                "Extra Challenge"
+            ]
         },
         {
             "date": "2021-06-17",
@@ -592,7 +646,9 @@
                 "quantity": "5",
                 "name": "Spitfoux Skin"
             },
-            "categories": []
+            "categories": [
+                "Challenge rate bonus"
+            ]
         },
         {
             "date": "2021-06-20",
@@ -603,7 +659,9 @@
                 "quantity": "40",
                 "name": "Wheat"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-06-21",
@@ -616,7 +674,9 @@
             },
             "categories": [
                 "Drop rate",
-                "Exp rate"
+                "Exp rate",
+                "Challenge rate bonus",
+                "Extra Challenge"
             ]
         },
         {
@@ -628,7 +688,9 @@
                 "quantity": "2",
                 "name": "Craboral Pincer"
             },
-            "categories": []
+            "categories": [
+                "Zone bonus rate"
+            ]
         },
         {
             "date": "2021-06-23",
@@ -704,7 +766,9 @@
                 "quantity": "7",
                 "name": "Treechnid Root"
             },
-            "categories": []
+            "categories": [
+                "Zone bonus rate"
+            ]
         },
         {
             "date": "2021-06-29",
@@ -715,7 +779,9 @@
                 "quantity": "4",
                 "name": "Contaminated Meat"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-06-30",
@@ -752,7 +818,9 @@
                 "quantity": "6",
                 "name": "Boar Tusk"
             },
-            "categories": []
+            "categories": [
+                "Extra Challenge"
+            ]
         },
         {
             "date": "2021-07-03",
@@ -776,7 +844,9 @@
                 "quantity": "2",
                 "name": "Sesame Seed Bread"
             },
-            "categories": []
+            "categories": [
+                "Crafting quality increase"
+            ]
         },
         {
             "date": "2021-07-05",
@@ -787,7 +857,9 @@
                 "quantity": "1",
                 "name": "Magic Tanuki Hairs"
             },
-            "categories": []
+            "categories": [
+                "Challenge rate bonus"
+            ]
         },
         {
             "date": "2021-07-06",
@@ -798,7 +870,9 @@
                 "quantity": "40",
                 "name": "Kittenfish"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-07-07",
@@ -848,7 +922,9 @@
                 "quantity": "1",
                 "name": "Eco Bow"
             },
-            "categories": []
+            "categories": [
+                "Breeding bonus"
+            ]
         },
         {
             "date": "2021-07-11",
@@ -859,7 +935,9 @@
                 "quantity": "10",
                 "name": "Bauxite"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-07-12",
@@ -870,7 +948,9 @@
                 "quantity": "2",
                 "name": "Mastogob Wool"
             },
-            "categories": []
+            "categories": [
+                "Challenge rate bonus"
+            ]
         },
         {
             "date": "2021-07-13",
@@ -907,7 +987,9 @@
                 "quantity": "3",
                 "name": "Marbled Meat"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-07-16",
@@ -997,7 +1079,9 @@
                 "quantity": "2",
                 "name": "Gullipop Feather"
             },
-            "categories": []
+            "categories": [
+                "Extra Challenge"
+            ]
         },
         {
             "date": "2021-07-23",
@@ -1008,7 +1092,9 @@
                 "quantity": "40",
                 "name": "Grawn"
             },
-            "categories": []
+            "categories": [
+                "Breeding bonus"
+            ]
         },
         {
             "date": "2021-07-24",
@@ -1019,7 +1105,9 @@
                 "quantity": "1",
                 "name": "Elm Wood"
             },
-            "categories": []
+            "categories": [
+                "Gathering rate"
+            ]
         },
         {
             "date": "2021-07-25",
@@ -1030,7 +1118,9 @@
                 "quantity": "1",
                 "name": "Blodz Uker Skin"
             },
-            "categories": []
+            "categories": [
+                "Challenge rate bonus"
+            ]
         },
         {
             "date": "2021-07-26",
@@ -1067,7 +1157,9 @@
                 "quantity": "2",
                 "name": "Stabba Fibula"
             },
-            "categories": []
+            "categories": [
+                "Zone bonus rate"
+            ]
         },
         {
             "date": "2021-07-29",
