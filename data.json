@@ -1,1 +1,1205 @@
-{"Almanax": [{"date": "2021-05-01", "url": "http://www.krosmoz.com/en/almanax/2021-05-01", "bonus": "For every Fairywork crafted, characters have a 25% chance of creating a second one, as well as a 10% change of keeping their ingredients. The amount of Explosive Capsules dropped by Bwork Magi is also doubled.", "quest": "Find 2 Explosive Capsule and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Explosive Capsule"}, "categories": ["Crafting save"]}, {"date": "2021-05-02", "url": "http://www.krosmoz.com/en/almanax/2021-05-02", "bonus": "Experienced gained in the Temple of the Great Ougaa is increased by 125%.", "quest": "Find 1 Mushmunch Tongue and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Mushmunch Tongue"}, "categories": ["Exp rate"]}, {"date": "2021-05-03", "url": "http://www.krosmoz.com/en/almanax/2021-05-03", "bonus": "The chances of obtaining loot from Tree Keeholo monsters are increased by 75%.", "quest": "Find 2 Light Treeckler Stump and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Light Treeckler Stump"}, "categories": ["Drop rate"]}, {"date": "2021-05-04", "url": "http://www.krosmoz.com/en/almanax/2021-05-04", "bonus": "Bonuses gained by completing challenges are increased by 250% against Onis.", "quest": "Find 1 Oni Blood and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Oni Blood"}, "categories": ["Challenge rate bonus"]}, {"date": "2021-05-05", "url": "http://www.krosmoz.com/en/almanax/2021-05-05", "bonus": "An extra challenge is generated for fights against monsters in the Grassy Plains area.", "quest": "Find 2 Mufafah Moustache and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Mufafah Moustache"}, "categories": ["Extra Challenge"]}, {"date": "2021-05-06", "url": "http://www.krosmoz.com/en/almanax/2021-05-06", "bonus": "The quantity of Bombu, Oliviolet and Maple harvested by lumberjacks is increased by 125%.", "quest": "Find 15 Maple Wood and take the offering to Antyklime Ax", "item": {"quantity": "15", "name": "Maple Wood"}, "categories": ["Gathering rate"]}, {"date": "2021-05-07", "url": "http://www.krosmoz.com/en/almanax/2021-05-07", "bonus": "Craftsmen have a 15% chance of keeping their ingredients when they craft items in the Frigost Village and Icefields areas.", "quest": "Find 5 Meatball and take the offering to Antyklime Ax", "item": {"quantity": "5", "name": "Meatball"}, "categories": ["Crafting save"]}, {"date": "2021-05-08", "url": "http://www.krosmoz.com/en/almanax/2021-05-08", "bonus": "A special repeatable quest is available today near Amakna Castle. It is available to players of level 20 or higher and is not attached to the offering quest.", "quest": "Find 10 Potatoes and take the offering to Antyklime Ax", "item": {"quantity": "10", "name": "Potatoes"}, "categories": ["Repeatable quest"]}, {"date": "2021-05-09", "url": "http://www.krosmoz.com/en/almanax/2021-05-09", "bonus": "The chances of obtaining loot in the Wild Canyon area are increased by 100%.", "quest": "Find 2 Medicinal Stone and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Medicinal Stone"}, "categories": ["Drop rate"]}, {"date": "2021-05-10", "url": "http://www.krosmoz.com/en/almanax/2021-05-10", "bonus": "All varieties of Turquoise Dragoturkey will give birth to one extra baby.", "quest": "Find 3 Twiggy Shovel and take the offering to Antyklime Ax", "item": {"quantity": "3", "name": "Twiggy Shovel"}, "categories": ["Breeding bonus"]}, {"date": "2021-05-11", "url": "http://www.krosmoz.com/en/almanax/2021-05-11", "bonus": "Experience gained in the Scaraleaf Plain area is increased by 100%.", "quest": "Find 1 Green Scaraleaf Carapace and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Green Scaraleaf Carapace"}, "categories": ["Exp rate"]}, {"date": "2021-05-12", "url": "http://www.krosmoz.com/en/almanax/2021-05-12", "bonus": "The quantity of Malt harvested by farmers is increased by 125%.", "quest": "Find 20 Malt and take the offering to Antyklime Ax", "item": {"quantity": "20", "name": "Malt"}, "categories": ["Gathering rate"]}, {"date": "2021-05-13", "url": "http://www.krosmoz.com/en/almanax/2021-05-13", "bonus": "The resource protectors are 5 times more likely to appear during harvesting activities than usual.", "quest": "Find 1 Small Harvester Bag and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Small Harvester Bag"}, "categories": ["Resource Protectors rate"]}, {"date": "2021-05-14", "url": "http://www.krosmoz.com/en/almanax/2021-05-14", "bonus": "The quality of items crafted in the city of Astrub is increased.", "quest": "Find 2 Smithy Daggers and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Smithy Daggers"}, "categories": ["Crafting quality increase"]}, {"date": "2021-05-15", "url": "http://www.krosmoz.com/en/almanax/2021-05-15", "bonus": "Gobbowl Surprises have been added to monster loot. When you use them, you'll receive Gobbagums of various flavours.", "quest": "Find 11 Gobball Wool and take the offering to Antyklime Ax", "item": {"quantity": "11", "name": "Gobball Wool"}, "categories": ["Miscellaneous"]}, {"date": "2021-05-16", "url": "http://www.krosmoz.com/en/almanax/2021-05-16", "bonus": "Plants harvested by alchemists will reappear 100% more quickly than usual.", "quest": "Find 40 Nettles and take the offering to Antyklime Ax", "item": {"quantity": "40", "name": "Nettles"}, "categories": ["Ressource respawn rate"]}, {"date": "2021-05-17", "url": "http://www.krosmoz.com/en/almanax/2021-05-17", "bonus": "The chances of obtaining loot from Mopy Kings are increased by 150%.", "quest": "Find 2 Mopy King Fabric and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Mopy King Fabric"}, "categories": ["Drop rate"]}, {"date": "2021-05-18", "url": "http://www.krosmoz.com/en/almanax/2021-05-18", "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Plantala area.", "quest": "Find 3 Flowistil Pistil and take the offering to Antyklime Ax", "item": {"quantity": "3", "name": "Flowistil Pistil"}, "categories": ["Zone bonus rate"]}, {"date": "2021-05-19", "url": "http://www.krosmoz.com/en/almanax/2021-05-19", "bonus": "The quantity of Tin and Silicate harvested by miners is increased by 150%.", "quest": "Find 12 Tin and take the offering to Antyklime Ax", "item": {"quantity": "12", "name": "Tin"}, "categories": ["Gathering rate"]}, {"date": "2021-05-20", "url": "http://www.krosmoz.com/en/almanax/2021-05-20", "bonus": "Experience gained by fighting temple Dopples is increased by 75%.", "quest": "Find 2 Carbon Paper and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Carbon Paper"}, "categories": ["Exp rate"]}, {"date": "2021-05-21", "url": "http://www.krosmoz.com/en/almanax/2021-05-21", "bonus": "Tailors have a 10% chance of keeping their ingredients when they craft items.", "quest": "Find 1 Purple Cloak and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Purple Cloak"}, "categories": ["Crafting save"]}, {"date": "2021-05-22", "url": "http://www.krosmoz.com/en/almanax/2021-05-22", "bonus": "An extra challenge is generated for fights against monsters in the Snowfoux Caverns area.", "quest": "Find 2 Yokai Snowfoux Wool and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Yokai Snowfoux Wool"}, "categories": ["Extra Challenge"]}, {"date": "2021-05-23", "url": "http://www.krosmoz.com/en/almanax/2021-05-23", "bonus": "The quantity of Perch, Monkfish, Lard Bass, and Tench harvested by fishermen is increased by 150%.", "quest": "Find 12 Perch and take the offering to Antyklime Ax", "item": {"quantity": "12", "name": "Perch"}, "categories": ["Gathering rate"]}, {"date": "2021-05-24", "url": "http://www.krosmoz.com/en/almanax/2021-05-24", "bonus": "A special repeatable quest is available today to the east of the Lumberjacks' Workshop in Amakna Forest. It is available to players of level 20 or higher and is not attached to the offering quest.", "quest": "Find 1 Cawwot and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Cawwot"}, "categories": ["Repeatable quest"]}, {"date": "2021-05-25", "url": "http://www.krosmoz.com/en/almanax/2021-05-25", "bonus": "Experience gained in the Tree Keeholo Foliage area is increased by 100%.", "quest": "Find 2 Snailmet Slobber and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Snailmet Slobber"}, "categories": ["Exp rate"]}, {"date": "2021-05-26", "url": "http://www.krosmoz.com/en/almanax/2021-05-26", "bonus": "Bonuses gained by completing challenges are increased by 200% in the Tainela area.", "quest": "Find 6 Gobbly Horn and take the offering to Antyklime Ax", "item": {"quantity": "6", "name": "Gobbly Horn"}, "categories": ["Challenge rate bonus"]}, {"date": "2021-05-27", "url": "http://www.krosmoz.com/en/almanax/2021-05-27", "bonus": "For each item crafted, Farmers have a 25% chance of creating a second one.", "quest": "Find 10 Solid Bread and take the offering to Antyklime Ax", "item": {"quantity": "10", "name": "Solid Bread"}, "categories": ["Crafting save"]}, {"date": "2021-05-28", "url": "http://www.krosmoz.com/en/almanax/2021-05-28", "bonus": "The quantity of Blood-Soaked Meat harvested by hunters is increased by 125%.", "quest": "Find 2 Blood-Soaked Meat and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Blood-Soaked Meat"}, "categories": ["Gathering rate"]}, {"date": "2021-05-29", "url": "http://www.krosmoz.com/en/almanax/2021-05-29", "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Kaliptus Forest area.", "quest": "Find 2 Koalak Forester Hair and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Koalak Forester Hair"}, "categories": ["Zone bonus rate"]}, {"date": "2021-05-30", "url": "http://www.krosmoz.com/en/almanax/2021-05-30", "bonus": "Experience gains are increased by 75% with Dreggons and Dragosses.", "quest": "Find 7 Clay Dreggon Shell and take the offering to Antyklime Ax", "item": {"quantity": "7", "name": "Clay Dreggon Shell"}, "categories": ["Exp rate"]}, {"date": "2021-05-31", "url": "http://www.krosmoz.com/en/almanax/2021-05-31", "bonus": "The chances of obtaining loot in the Petrified Forest area are increased by 100%.", "quest": "Find 2 Dramanita Gill and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Dramanita Gill"}, "categories": ["Drop rate"]}, {"date": "2021-06-01", "url": "http://www.krosmoz.com/en/almanax/2021-06-01", "bonus": "An extra challenge is generated for fights against creatures in the Beach Monsters family.", "quest": "Find 5 Crab Pincer and take the offering to Antyklime Ax", "item": {"quantity": "5", "name": "Crab Pincer"}, "categories": ["Extra Challenge"]}, {"date": "2021-06-02", "url": "http://www.krosmoz.com/en/almanax/2021-06-02", "bonus": "Craftsmen have a 15% chance of keeping their ingredients when they craft items in the Madrestam Harbour area.", "quest": "Find 15 Shiny Sardine and take the offering to Antyklime Ax", "item": {"quantity": "15", "name": "Shiny Sardine"}, "categories": ["Crafting save"]}, {"date": "2021-06-03", "url": "http://www.krosmoz.com/en/almanax/2021-06-03", "bonus": "Bonuses gained by completing challenges are increased by 200% in the Blacksmith Dungeon.", "quest": "Find 2 Seed of Contention and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Seed of Contention"}, "categories": ["Challenge rate bonus"]}, {"date": "2021-06-04", "url": "http://www.krosmoz.com/en/almanax/2021-06-04", "bonus": "The loot generated by Perceptors is increased by 200% in all areas.", "quest": "Find 2 Counterfeit Royal Seal and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Counterfeit Royal Seal"}, "categories": ["Perceptor bonus"]}, {"date": "2021-06-05", "url": "http://www.krosmoz.com/en/almanax/2021-06-05", "bonus": "The quantity of ores harvested by miners of all levels is increased by 100%.", "quest": "Find 10 Gold and take the offering to Antyklime Ax", "item": {"quantity": "10", "name": "Gold"}, "categories": ["Gathering rate"]}, {"date": "2021-06-06", "url": "http://www.krosmoz.com/en/almanax/2021-06-06", "bonus": "The chances of obtaining loot from Count Harebourg, his four lieutenants and all their creatures are increased by 75%.", "quest": "Find 2 Harrogant Eye and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Harrogant Eye"}, "categories": ["Drop rate"]}, {"date": "2021-06-07", "url": "http://www.krosmoz.com/en/almanax/2021-06-07", "bonus": "Experience gained by fighting Snowfoux is increased by 75%.", "quest": "Find 2 Kami Snowfoux Incisor and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Kami Snowfoux Incisor"}, "categories": ["Exp rate"]}, {"date": "2021-06-08", "url": "http://www.krosmoz.com/en/almanax/2021-06-08", "bonus": "Bonuses gained by completing challenges are increased by 200% in the Plantala area.", "quest": "Find 2 Bambooto Stalk and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Bambooto Stalk"}, "categories": ["Challenge rate bonus"]}, {"date": "2021-06-09", "url": "http://www.krosmoz.com/en/almanax/2021-06-09", "bonus": "The quantity of Freyesque Orchids harvested by alchemists is increased by 150%.", "quest": "Find 10 Freyesque Orchid and take the offering to Antyklime Ax", "item": {"quantity": "10", "name": "Freyesque Orchid"}, "categories": ["Gathering rate"]}, {"date": "2021-06-10", "url": "http://www.krosmoz.com/en/almanax/2021-06-10", "bonus": "All varieties of Almond Dragoturkey will give birth to one extra baby.", "quest": "Find 5 Almond Dragoturkey Peak and take the offering to Antyklime Ax", "item": {"quantity": "5", "name": "Almond Dragoturkey Peak"}, "categories": ["Breeding bonus"]}, {"date": "2021-06-11", "url": "http://www.krosmoz.com/en/almanax/2021-06-11", "bonus": "The chances of obtaining loot in the Turtle Beach area are increased by 100%.", "quest": "Find 2 Kokostraw and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Kokostraw"}, "categories": ["Drop rate"]}, {"date": "2021-06-12", "url": "http://www.krosmoz.com/en/almanax/2021-06-12", "bonus": "The quality of items crafted in the city of Frigost Village is increased.", "quest": "Find 2 Ice Wand and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Ice Wand"}, "categories": ["Crafting quality increase"]}, {"date": "2021-06-13", "url": "http://www.krosmoz.com/en/almanax/2021-06-13", "bonus": "Experience gained in the Fungus Cavern area is increased by 100%.", "quest": "Find 1 Mush Rhume Slobber and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Mush Rhume Slobber"}, "categories": ["Exp rate"]}, {"date": "2021-06-14", "url": "http://www.krosmoz.com/en/almanax/2021-06-14", "bonus": "Handymen have a 10% chance of keeping their ingredients when they craft items.", "quest": "Find 1 Field Dungeon Key and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Field Dungeon Key"}, "categories": ["Crafting save"]}, {"date": "2021-06-15", "url": "http://www.krosmoz.com/en/almanax/2021-06-15", "bonus": "The quantity of Cherry Wood harvested by lumberjacks is increased by 125%.", "quest": "Find 12 Cherry Wood and take the offering to Antyklime Ax", "item": {"quantity": "12", "name": "Cherry Wood"}, "categories": ["Gathering rate"]}, {"date": "2021-06-16", "url": "http://www.krosmoz.com/en/almanax/2021-06-16", "bonus": "An extra challenge is generated for fights against monsters in the Dreggon Village and Dreggon Tunnels areas.", "quest": "Find 7 Slate Dreggon Shell and take the offering to Antyklime Ax", "item": {"quantity": "7", "name": "Slate Dreggon Shell"}, "categories": ["Extra Challenge"]}, {"date": "2021-06-17", "url": "http://www.krosmoz.com/en/almanax/2021-06-17", "bonus": "The chances of obtaining loot from Bulbushes are increased by 150%.", "quest": "Find 2 Bulbush Thorn and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Bulbush Thorn"}, "categories": ["Drop rate"]}, {"date": "2021-06-18", "url": "http://www.krosmoz.com/en/almanax/2021-06-18", "bonus": "Experience gains are increased by 125% in Crocabulia's Lair.", "quest": "Find 2 Dragandrop Hide and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Dragandrop Hide"}, "categories": ["Exp rate"]}, {"date": "2021-06-19", "url": "http://www.krosmoz.com/en/almanax/2021-06-19", "bonus": "Bonuses gained by completing challenges are increased by 250% against Spitfoux.", "quest": "Find 5 Spitfoux Skin and take the offering to Antyklime Ax", "item": {"quantity": "5", "name": "Spitfoux Skin"}, "categories": ["Challenge rate bonus"]}, {"date": "2021-06-20", "url": "http://www.krosmoz.com/en/almanax/2021-06-20", "bonus": "The quantity of Wheat harvested by farmers is increased by 125%.", "quest": "Find 40 Wheat and take the offering to Antyklime Ax", "item": {"quantity": "40", "name": "Wheat"}, "categories": ["Gathering rate"]}, {"date": "2021-06-21", "url": "http://www.krosmoz.com/en/almanax/2021-06-21", "bonus": "Experience gains and chances of obtaining loot from creatures in the Magik Riktus family are increased by 50%. An extra challenge is generated and bonuses gained by completing challenges are increased by 75% against creatures in the Magik Riktus family.", "quest": "Find 2 Marine Conch and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Marine Conch"}, "categories": ["Drop rate", "Exp rate", "Challenge rate bonus", "Extra Challenge"]}, {"date": "2021-06-22", "url": "http://www.krosmoz.com/en/almanax/2021-06-22", "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Coral Beach area.", "quest": "Find 2 Craboral Pincer and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Craboral Pincer"}, "categories": ["Zone bonus rate"]}, {"date": "2021-06-23", "url": "http://www.krosmoz.com/en/almanax/2021-06-23", "bonus": "The chances of obtaining loot in the Tree Keeholo Foliage area are increased by 100%.", "quest": "Find 2 Snailmet Slobber and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Snailmet Slobber"}, "categories": ["Drop rate"]}, {"date": "2021-06-24", "url": "http://www.krosmoz.com/en/almanax/2021-06-24", "bonus": "Experience gained by fighting Field Plants is increased by 75%.", "quest": "Find 4 Scarecro Tongue and take the offering to Antyklime Ax", "item": {"quantity": "4", "name": "Scarecro Tongue"}, "categories": ["Exp rate"]}, {"date": "2021-06-25", "url": "http://www.krosmoz.com/en/almanax/2021-06-25", "bonus": "Resources will reappear 150% more quickly than usual in the Desolation of Sidimote area.", "quest": "Find 40 Iron and take the offering to Antyklime Ax", "item": {"quantity": "40", "name": "Iron"}, "categories": ["Ressource respawn rate"]}, {"date": "2021-06-26", "url": "http://www.krosmoz.com/en/almanax/2021-06-26", "bonus": "Craftsmen have a 15% chance of keeping their ingredients when they craft items in the Pandala Village area.", "quest": "Find 1 Minor Dagob and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Minor Dagob"}, "categories": ["Crafting save"]}, {"date": "2021-06-27", "url": "http://www.krosmoz.com/en/almanax/2021-06-27", "bonus": "The chances of obtaining loot in the Lair of the Giant Kralove dungeon are increased by 125%.", "quest": "Find 2 Old Kralove Sucker and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Old Kralove Sucker"}, "categories": ["Drop rate"]}, {"date": "2021-06-28", "url": "http://www.krosmoz.com/en/almanax/2021-06-28", "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Arak-hai Forest area.", "quest": "Find 7 Treechnid Root and take the offering to Antyklime Ax", "item": {"quantity": "7", "name": "Treechnid Root"}, "categories": ["Zone bonus rate"]}, {"date": "2021-06-29", "url": "http://www.krosmoz.com/en/almanax/2021-06-29", "bonus": "The quantity of Contaminated Meat harvested by Hunters is increased by 125%.", "quest": "Find 4 Contaminated Meat and take the offering to Antyklime Ax", "item": {"quantity": "4", "name": "Contaminated Meat"}, "categories": ["Gathering rate"]}, {"date": "2021-06-30", "url": "http://www.krosmoz.com/en/almanax/2021-06-30", "bonus": "Experience gained in the Minotoror Island area is increased by 100%.", "quest": "Find 3 Manderisha Skin and take the offering to Antyklime Ax", "item": {"quantity": "3", "name": "Manderisha Skin"}, "categories": ["Exp rate"]}, {"date": "2021-07-01", "url": "http://www.krosmoz.com/en/almanax/2021-07-01", "bonus": "The chances of obtaining loot from Crocodyl Chiefs are increased by 150%.", "quest": "Find 4 Crocodyl Chief Scale and take the offering to Antyklime Ax", "item": {"quantity": "4", "name": "Crocodyl Chief Scale"}, "categories": ["Drop rate"]}, {"date": "2021-07-02", "url": "http://www.krosmoz.com/en/almanax/2021-07-02", "bonus": "An extra challenge is generated for fights against monsters in the Amakna Forest area.", "quest": "Find 6 Boar Tusk and take the offering to Antyklime Ax", "item": {"quantity": "6", "name": "Boar Tusk"}, "categories": ["Extra Challenge"]}, {"date": "2021-07-03", "url": "http://www.krosmoz.com/en/almanax/2021-07-03", "bonus": "Alchemists have a 10% chance of keeping their ingredients when they craft items.", "quest": "Find 7 Mini Healing Potion and take the offering to Antyklime Ax", "item": {"quantity": "7", "name": "Mini Healing Potion"}, "categories": ["Crafting save"]}, {"date": "2021-07-04", "url": "http://www.krosmoz.com/en/almanax/2021-07-04", "bonus": "The quality of items crafted in Amakna Village and Forest is increased.", "quest": "Find 2 Sesame Seed Bread and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Sesame Seed Bread"}, "categories": ["Crafting quality increase"]}, {"date": "2021-07-05", "url": "http://www.krosmoz.com/en/almanax/2021-07-05", "bonus": "Bonuses gained by completing challenges are increased by 200% in Tanukou\u00ef San's Workshop.", "quest": "Find 1 Magic Tanuki Hairs and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Magic Tanuki Hairs"}, "categories": ["Challenge rate bonus"]}, {"date": "2021-07-06", "url": "http://www.krosmoz.com/en/almanax/2021-07-06", "bonus": "The quantity of Kittenfish, Ediem Carp, Pike andEel harvested by Fishermen is increased by 150%.", "quest": "Find 40 Kittenfish and take the offering to Antyklime Ax", "item": {"quantity": "40", "name": "Kittenfish"}, "categories": ["Gathering rate"]}, {"date": "2021-07-07", "url": "http://www.krosmoz.com/en/almanax/2021-07-07", "bonus": "The chances of obtaining loot in the Tears of Ouronigride area are increased by 100%.", "quest": "Find 2 Solfatara Residue and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Solfatara Residue"}, "categories": ["Drop rate"]}, {"date": "2021-07-08", "url": "http://www.krosmoz.com/en/almanax/2021-07-08", "bonus": "Experience gained by fighting Gobkools and Cave Gobballs is increased by 200%.", "quest": "Find 8 Gobkool Wool and take the offering to Antyklime Ax", "item": {"quantity": "8", "name": "Gobkool Wool"}, "categories": ["Exp rate"]}, {"date": "2021-07-09", "url": "http://www.krosmoz.com/en/almanax/2021-07-09", "bonus": "Experience gains are increased by 50% for all harvesting professions.", "quest": "Find 20 Ash Wood and take the offering to Antyklime Ax", "item": {"quantity": "20", "name": "Ash Wood"}, "categories": ["Exp rate"]}, {"date": "2021-07-10", "url": "http://www.krosmoz.com/en/almanax/2021-07-10", "bonus": "All varieties of Plum Dragoturkey will give birth to one extra baby.", "quest": "Find 1 Eco Bow and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Eco Bow"}, "categories": ["Breeding bonus"]}, {"date": "2021-07-11", "url": "http://www.krosmoz.com/en/almanax/2021-07-11", "bonus": "The quantity of Bauxite harvested by miners is increased by 150%.", "quest": "Find 10 Bauxite and take the offering to Antyklime Ax", "item": {"quantity": "10", "name": "Bauxite"}, "categories": ["Gathering rate"]}, {"date": "2021-07-12", "url": "http://www.krosmoz.com/en/almanax/2021-07-12", "bonus": "Bonuses gained by completing challenges are increased by 200% in the Icefields area.", "quest": "Find 2 Mastogob Wool and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Mastogob Wool"}, "categories": ["Challenge rate bonus"]}, {"date": "2021-07-13", "url": "http://www.krosmoz.com/en/almanax/2021-07-13", "bonus": "Experience gained in the Tears of Ouronigride area is increased by 100%.", "quest": "Find 2 Atomystique Stone and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Atomystique Stone"}, "categories": ["Exp rate"]}, {"date": "2021-07-14", "url": "http://www.krosmoz.com/en/almanax/2021-07-14", "bonus": "Experience gained from Kolossium fights is increased by 100%.", "quest": "Find 2 Broken Chains and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Broken Chains"}, "categories": ["Exp rate"]}, {"date": "2021-07-15", "url": "http://www.krosmoz.com/en/almanax/2021-07-15", "bonus": "The quantity of Marbled Meat harvested by Hunters is increased by 125%.", "quest": "Find 3 Marbled Meat and take the offering to Antyklime Ax", "item": {"quantity": "3", "name": "Marbled Meat"}, "categories": ["Gathering rate"]}, {"date": "2021-07-16", "url": "http://www.krosmoz.com/en/almanax/2021-07-16", "bonus": "The chances of obtaining loot from Vulkania monsters are increased by 75%.", "quest": "Find 2 Venerable Mud and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Venerable Mud"}, "categories": ["Drop rate"]}, {"date": "2021-07-17", "url": "http://www.krosmoz.com/en/almanax/2021-07-17", "bonus": "Experience gains and the chances of obtaining loot are increased by 25% in the Astrub Meadow zone.", "quest": "Find 4 Evil Dandelion Flower and take the offering to Antyklime Ax", "item": {"quantity": "4", "name": "Evil Dandelion Flower"}, "categories": ["Drop rate", "Exp rate"]}, {"date": "2021-07-18", "url": "http://www.krosmoz.com/en/almanax/2021-07-18", "bonus": "Craftsmen have a 15% chance of keeping their ingredients when they craft items in the Gobball Corner area.", "quest": "Find 5 Shrubstrate and take the offering to Antyklime Ax", "item": {"quantity": "5", "name": "Shrubstrate"}, "categories": ["Crafting save"]}, {"date": "2021-07-19", "url": "http://www.krosmoz.com/en/almanax/2021-07-19", "bonus": "Experience gained in the Grotto Hesque is increased by 125%.", "quest": "Find 2 Coralator Coccyx and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Coralator Coccyx"}, "categories": ["Exp rate"]}, {"date": "2021-07-20", "url": "http://www.krosmoz.com/en/almanax/2021-07-20", "bonus": "Cereals harvested by farmers will reappear 100% more quickly than usual.", "quest": "Find 1 Wild Sunflower Oil and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Wild Sunflower Oil"}, "categories": ["Ressource respawn rate"]}, {"date": "2021-07-21", "url": "http://www.krosmoz.com/en/almanax/2021-07-21", "bonus": "The chances of obtaining loot in the Zoth Village area are increased by 100%.", "quest": "Find 2 Precious Zoth Stone and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Precious Zoth Stone"}, "categories": ["Drop rate"]}, {"date": "2021-07-22", "url": "http://www.krosmoz.com/en/almanax/2021-07-22", "bonus": "An extra challenge is generated for fights against Frigost Village monsters.", "quest": "Find 2 Gullipop Feather and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Gullipop Feather"}, "categories": ["Extra Challenge"]}, {"date": "2021-07-23", "url": "http://www.krosmoz.com/en/almanax/2021-07-23", "bonus": "Fertile Rhineetles of all varieties will give birth to one extra baby.", "quest": "Find 40 Grawn and take the offering to Antyklime Ax", "item": {"quantity": "40", "name": "Grawn"}, "categories": ["Breeding bonus"]}, {"date": "2021-07-24", "url": "http://www.krosmoz.com/en/almanax/2021-07-24", "bonus": "The quantity of Aspen, Holy Bamboo and Elm wood harvested by lumberjacks is increased by 200%.", "quest": "Find 1 Elm Wood and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Elm Wood"}, "categories": ["Gathering rate"]}, {"date": "2021-07-25", "url": "http://www.krosmoz.com/en/almanax/2021-07-25", "bonus": "Bonuses gained by completing challenges are increased by 150% against creatures in the Pig family.", "quest": "Find 1 Blodz Uker Skin and take the offering to Antyklime Ax", "item": {"quantity": "1", "name": "Blodz Uker Skin"}, "categories": ["Challenge rate bonus"]}, {"date": "2021-07-26", "url": "http://www.krosmoz.com/en/almanax/2021-07-26", "bonus": "Experience gained in the Lonesome Pine Trails area is increased by 100%.", "quest": "Find 2 Cromagmunk Tail and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Cromagmunk Tail"}, "categories": ["Exp rate"]}, {"date": "2021-07-27", "url": "http://www.krosmoz.com/en/almanax/2021-07-27", "bonus": "Hunters have a 10% chance of keeping their ingredients when they craft items.", "quest": "Find 8 Astrubian Fritter and take the offering to Antyklime Ax", "item": {"quantity": "8", "name": "Astrubian Fritter"}, "categories": ["Crafting save"]}, {"date": "2021-07-28", "url": "http://www.krosmoz.com/en/almanax/2021-07-28", "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Snowy Forest and Sakai Plain areas.", "quest": "Find 2 Stabba Fibula and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Stabba Fibula"}, "categories": ["Zone bonus rate"]}, {"date": "2021-07-29", "url": "http://www.krosmoz.com/en/almanax/2021-07-29", "bonus": "The chances of obtaining loot in the Tanukou\u00ef San's Workshop dungeon are increased by 125%.", "quest": "Find 5 Shinobuubusu Mask and take the offering to Antyklime Ax", "item": {"quantity": "5", "name": "Shinobuubusu Mask"}, "categories": ["Drop rate"]}, {"date": "2021-07-30", "url": "http://www.krosmoz.com/en/almanax/2021-07-30", "bonus": "Experience gains and the chances of dropping loot are increased by 125% in the Haunted House dungeon.", "quest": "Find 4 Vampire Blood and take the offering to Antyklime Ax", "item": {"quantity": "4", "name": "Vampire Blood"}, "categories": ["Drop rate", "Exp rate"]}, {"date": "2021-07-31", "url": "http://www.krosmoz.com/en/almanax/2021-07-31", "bonus": "Experience gained by fighting Vulkania monsters is increased by 75%.", "quest": "Find 2 Novice Powder and take the offering to Antyklime Ax", "item": {"quantity": "2", "name": "Novice Powder"}, "categories": ["Exp rate"]}]}
+{
+    "Almanax": [
+        {
+            "date": "2021-05-01",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-01",
+            "bonus": "For every Fairywork crafted, characters have a 25% chance of creating a second one, as well as a 10% change of keeping their ingredients. The amount of Explosive Capsules dropped by Bwork Magi is also doubled.",
+            "quest": "Find 2 Explosive Capsule and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Explosive Capsule"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-05-02",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-02",
+            "bonus": "Experienced gained in the Temple of the Great Ougaa is increased by 125%.",
+            "quest": "Find 1 Mushmunch Tongue and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Mushmunch Tongue"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-05-03",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-03",
+            "bonus": "The chances of obtaining loot from Tree Keeholo monsters are increased by 75%.",
+            "quest": "Find 2 Light Treeckler Stump and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Light Treeckler Stump"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-05-04",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-04",
+            "bonus": "Bonuses gained by completing challenges are increased by 250% against Onis.",
+            "quest": "Find 1 Oni Blood and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Oni Blood"
+            },
+            "categories": [
+                "Challenge rate bonus"
+            ]
+        },
+        {
+            "date": "2021-05-05",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-05",
+            "bonus": "An extra challenge is generated for fights against monsters in the Grassy Plains area.",
+            "quest": "Find 2 Mufafah Moustache and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Mufafah Moustache"
+            },
+            "categories": [
+                "Extra Challenge"
+            ]
+        },
+        {
+            "date": "2021-05-06",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-06",
+            "bonus": "The quantity of Bombu, Oliviolet and Maple harvested by lumberjacks is increased by 125%.",
+            "quest": "Find 15 Maple Wood and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "15",
+                "name": "Maple Wood"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-05-07",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-07",
+            "bonus": "Craftsmen have a 15% chance of keeping their ingredients when they craft items in the Frigost Village and Icefields areas.",
+            "quest": "Find 5 Meatball and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "5",
+                "name": "Meatball"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-05-08",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-08",
+            "bonus": "A special repeatable quest is available today near Amakna Castle. It is available to players of level 20 or higher and is not attached to the offering quest.",
+            "quest": "Find 10 Potatoes and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "10",
+                "name": "Potatoes"
+            },
+            "categories": [
+                "Repeatable quest"
+            ]
+        },
+        {
+            "date": "2021-05-09",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-09",
+            "bonus": "The chances of obtaining loot in the Wild Canyon area are increased by 100%.",
+            "quest": "Find 2 Medicinal Stone and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Medicinal Stone"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-05-10",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-10",
+            "bonus": "All varieties of Turquoise Dragoturkey will give birth to one extra baby.",
+            "quest": "Find 3 Twiggy Shovel and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "3",
+                "name": "Twiggy Shovel"
+            },
+            "categories": [
+                "Breeding bonus"
+            ]
+        },
+        {
+            "date": "2021-05-11",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-11",
+            "bonus": "Experience gained in the Scaraleaf Plain area is increased by 100%.",
+            "quest": "Find 1 Green Scaraleaf Carapace and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Green Scaraleaf Carapace"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-05-12",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-12",
+            "bonus": "The quantity of Malt harvested by farmers is increased by 125%.",
+            "quest": "Find 20 Malt and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "20",
+                "name": "Malt"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-05-13",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-13",
+            "bonus": "The resource protectors are 5 times more likely to appear during harvesting activities than usual.",
+            "quest": "Find 1 Small Harvester Bag and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Small Harvester Bag"
+            },
+            "categories": [
+                "Resource Protectors rate"
+            ]
+        },
+        {
+            "date": "2021-05-14",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-14",
+            "bonus": "The quality of items crafted in the city of Astrub is increased.",
+            "quest": "Find 2 Smithy Daggers and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Smithy Daggers"
+            },
+            "categories": [
+                "Crafting quality increase"
+            ]
+        },
+        {
+            "date": "2021-05-15",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-15",
+            "bonus": "Gobbowl Surprises have been added to monster loot. When you use them, you'll receive Gobbagums of various flavours.",
+            "quest": "Find 11 Gobball Wool and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "11",
+                "name": "Gobball Wool"
+            },
+            "categories": [
+                "Miscellaneous"
+            ]
+        },
+        {
+            "date": "2021-05-16",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-16",
+            "bonus": "Plants harvested by alchemists will reappear 100% more quickly than usual.",
+            "quest": "Find 40 Nettles and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "40",
+                "name": "Nettles"
+            },
+            "categories": [
+                "Ressource respawn rate"
+            ]
+        },
+        {
+            "date": "2021-05-17",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-17",
+            "bonus": "The chances of obtaining loot from Mopy Kings are increased by 150%.",
+            "quest": "Find 2 Mopy King Fabric and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Mopy King Fabric"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-05-18",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-18",
+            "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Plantala area.",
+            "quest": "Find 3 Flowistil Pistil and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "3",
+                "name": "Flowistil Pistil"
+            },
+            "categories": [
+                "Zone bonus rate"
+            ]
+        },
+        {
+            "date": "2021-05-19",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-19",
+            "bonus": "The quantity of Tin and Silicate harvested by miners is increased by 150%.",
+            "quest": "Find 12 Tin and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "12",
+                "name": "Tin"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-05-20",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-20",
+            "bonus": "Experience gained by fighting temple Dopples is increased by 75%.",
+            "quest": "Find 2 Carbon Paper and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Carbon Paper"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-05-21",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-21",
+            "bonus": "Tailors have a 10% chance of keeping their ingredients when they craft items.",
+            "quest": "Find 1 Purple Cloak and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Purple Cloak"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-05-22",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-22",
+            "bonus": "An extra challenge is generated for fights against monsters in the Snowfoux Caverns area.",
+            "quest": "Find 2 Yokai Snowfoux Wool and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Yokai Snowfoux Wool"
+            },
+            "categories": [
+                "Extra Challenge"
+            ]
+        },
+        {
+            "date": "2021-05-23",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-23",
+            "bonus": "The quantity of Perch, Monkfish, Lard Bass, and Tench harvested by fishermen is increased by 150%.",
+            "quest": "Find 12 Perch and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "12",
+                "name": "Perch"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-05-24",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-24",
+            "bonus": "A special repeatable quest is available today to the east of the Lumberjacks' Workshop in Amakna Forest. It is available to players of level 20 or higher and is not attached to the offering quest.",
+            "quest": "Find 1 Cawwot and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Cawwot"
+            },
+            "categories": [
+                "Repeatable quest"
+            ]
+        },
+        {
+            "date": "2021-05-25",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-25",
+            "bonus": "Experience gained in the Tree Keeholo Foliage area is increased by 100%.",
+            "quest": "Find 2 Snailmet Slobber and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Snailmet Slobber"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-05-26",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-26",
+            "bonus": "Bonuses gained by completing challenges are increased by 200% in the Tainela area.",
+            "quest": "Find 6 Gobbly Horn and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "6",
+                "name": "Gobbly Horn"
+            },
+            "categories": [
+                "Challenge rate bonus"
+            ]
+        },
+        {
+            "date": "2021-05-27",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-27",
+            "bonus": "For each item crafted, Farmers have a 25% chance of creating a second one.",
+            "quest": "Find 10 Solid Bread and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "10",
+                "name": "Solid Bread"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-05-28",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-28",
+            "bonus": "The quantity of Blood-Soaked Meat harvested by hunters is increased by 125%.",
+            "quest": "Find 2 Blood-Soaked Meat and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Blood-Soaked Meat"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-05-29",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-29",
+            "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Kaliptus Forest area.",
+            "quest": "Find 2 Koalak Forester Hair and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Koalak Forester Hair"
+            },
+            "categories": [
+                "Zone bonus rate"
+            ]
+        },
+        {
+            "date": "2021-05-30",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-30",
+            "bonus": "Experience gains are increased by 75% with Dreggons and Dragosses.",
+            "quest": "Find 7 Clay Dreggon Shell and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "7",
+                "name": "Clay Dreggon Shell"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-05-31",
+            "url": "http://www.krosmoz.com/en/almanax/2021-05-31",
+            "bonus": "The chances of obtaining loot in the Petrified Forest area are increased by 100%.",
+            "quest": "Find 2 Dramanita Gill and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Dramanita Gill"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-06-01",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-01",
+            "bonus": "An extra challenge is generated for fights against creatures in the Beach Monsters family.",
+            "quest": "Find 5 Crab Pincer and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "5",
+                "name": "Crab Pincer"
+            },
+            "categories": [
+                "Extra Challenge"
+            ]
+        },
+        {
+            "date": "2021-06-02",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-02",
+            "bonus": "Craftsmen have a 15% chance of keeping their ingredients when they craft items in the Madrestam Harbour area.",
+            "quest": "Find 15 Shiny Sardine and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "15",
+                "name": "Shiny Sardine"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-06-03",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-03",
+            "bonus": "Bonuses gained by completing challenges are increased by 200% in the Blacksmith Dungeon.",
+            "quest": "Find 2 Seed of Contention and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Seed of Contention"
+            },
+            "categories": [
+                "Challenge rate bonus"
+            ]
+        },
+        {
+            "date": "2021-06-04",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-04",
+            "bonus": "The loot generated by Perceptors is increased by 200% in all areas.",
+            "quest": "Find 2 Counterfeit Royal Seal and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Counterfeit Royal Seal"
+            },
+            "categories": [
+                "Perceptor bonus"
+            ]
+        },
+        {
+            "date": "2021-06-05",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-05",
+            "bonus": "The quantity of ores harvested by miners of all levels is increased by 100%.",
+            "quest": "Find 10 Gold and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "10",
+                "name": "Gold"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-06-06",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-06",
+            "bonus": "The chances of obtaining loot from Count Harebourg, his four lieutenants and all their creatures are increased by 75%.",
+            "quest": "Find 2 Harrogant Eye and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Harrogant Eye"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-06-07",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-07",
+            "bonus": "Experience gained by fighting Snowfoux is increased by 75%.",
+            "quest": "Find 2 Kami Snowfoux Incisor and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Kami Snowfoux Incisor"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-06-08",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-08",
+            "bonus": "Bonuses gained by completing challenges are increased by 200% in the Plantala area.",
+            "quest": "Find 2 Bambooto Stalk and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Bambooto Stalk"
+            },
+            "categories": [
+                "Challenge rate bonus"
+            ]
+        },
+        {
+            "date": "2021-06-09",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-09",
+            "bonus": "The quantity of Freyesque Orchids harvested by alchemists is increased by 150%.",
+            "quest": "Find 10 Freyesque Orchid and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "10",
+                "name": "Freyesque Orchid"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-06-10",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-10",
+            "bonus": "All varieties of Almond Dragoturkey will give birth to one extra baby.",
+            "quest": "Find 5 Almond Dragoturkey Peak and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "5",
+                "name": "Almond Dragoturkey Peak"
+            },
+            "categories": [
+                "Breeding bonus"
+            ]
+        },
+        {
+            "date": "2021-06-11",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-11",
+            "bonus": "The chances of obtaining loot in the Turtle Beach area are increased by 100%.",
+            "quest": "Find 2 Kokostraw and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Kokostraw"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-06-12",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-12",
+            "bonus": "The quality of items crafted in the city of Frigost Village is increased.",
+            "quest": "Find 2 Ice Wand and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Ice Wand"
+            },
+            "categories": [
+                "Crafting quality increase"
+            ]
+        },
+        {
+            "date": "2021-06-13",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-13",
+            "bonus": "Experience gained in the Fungus Cavern area is increased by 100%.",
+            "quest": "Find 1 Mush Rhume Slobber and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Mush Rhume Slobber"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-06-14",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-14",
+            "bonus": "Handymen have a 10% chance of keeping their ingredients when they craft items.",
+            "quest": "Find 1 Field Dungeon Key and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Field Dungeon Key"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-06-15",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-15",
+            "bonus": "The quantity of Cherry Wood harvested by lumberjacks is increased by 125%.",
+            "quest": "Find 12 Cherry Wood and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "12",
+                "name": "Cherry Wood"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-06-16",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-16",
+            "bonus": "An extra challenge is generated for fights against monsters in the Dreggon Village and Dreggon Tunnels areas.",
+            "quest": "Find 7 Slate Dreggon Shell and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "7",
+                "name": "Slate Dreggon Shell"
+            },
+            "categories": [
+                "Extra Challenge"
+            ]
+        },
+        {
+            "date": "2021-06-17",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-17",
+            "bonus": "The chances of obtaining loot from Bulbushes are increased by 150%.",
+            "quest": "Find 2 Bulbush Thorn and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Bulbush Thorn"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-06-18",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-18",
+            "bonus": "Experience gains are increased by 125% in Crocabulia's Lair.",
+            "quest": "Find 2 Dragandrop Hide and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Dragandrop Hide"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-06-19",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-19",
+            "bonus": "Bonuses gained by completing challenges are increased by 250% against Spitfoux.",
+            "quest": "Find 5 Spitfoux Skin and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "5",
+                "name": "Spitfoux Skin"
+            },
+            "categories": [
+                "Challenge rate bonus"
+            ]
+        },
+        {
+            "date": "2021-06-20",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-20",
+            "bonus": "The quantity of Wheat harvested by farmers is increased by 125%.",
+            "quest": "Find 40 Wheat and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "40",
+                "name": "Wheat"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-06-21",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-21",
+            "bonus": "Experience gains and chances of obtaining loot from creatures in the Magik Riktus family are increased by 50%. An extra challenge is generated and bonuses gained by completing challenges are increased by 75% against creatures in the Magik Riktus family.",
+            "quest": "Find 2 Marine Conch and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Marine Conch"
+            },
+            "categories": [
+                "Drop rate",
+                "Exp rate",
+                "Challenge rate bonus",
+                "Extra Challenge"
+            ]
+        },
+        {
+            "date": "2021-06-22",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-22",
+            "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Coral Beach area.",
+            "quest": "Find 2 Craboral Pincer and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Craboral Pincer"
+            },
+            "categories": [
+                "Zone bonus rate"
+            ]
+        },
+        {
+            "date": "2021-06-23",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-23",
+            "bonus": "The chances of obtaining loot in the Tree Keeholo Foliage area are increased by 100%.",
+            "quest": "Find 2 Snailmet Slobber and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Snailmet Slobber"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-06-24",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-24",
+            "bonus": "Experience gained by fighting Field Plants is increased by 75%.",
+            "quest": "Find 4 Scarecro Tongue and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "4",
+                "name": "Scarecro Tongue"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-06-25",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-25",
+            "bonus": "Resources will reappear 150% more quickly than usual in the Desolation of Sidimote area.",
+            "quest": "Find 40 Iron and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "40",
+                "name": "Iron"
+            },
+            "categories": [
+                "Ressource respawn rate"
+            ]
+        },
+        {
+            "date": "2021-06-26",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-26",
+            "bonus": "Craftsmen have a 15% chance of keeping their ingredients when they craft items in the Pandala Village area.",
+            "quest": "Find 1 Minor Dagob and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Minor Dagob"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-06-27",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-27",
+            "bonus": "The chances of obtaining loot in the Lair of the Giant Kralove dungeon are increased by 125%.",
+            "quest": "Find 2 Old Kralove Sucker and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Old Kralove Sucker"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-06-28",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-28",
+            "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Arak-hai Forest area.",
+            "quest": "Find 7 Treechnid Root and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "7",
+                "name": "Treechnid Root"
+            },
+            "categories": [
+                "Zone bonus rate"
+            ]
+        },
+        {
+            "date": "2021-06-29",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-29",
+            "bonus": "The quantity of Contaminated Meat harvested by Hunters is increased by 125%.",
+            "quest": "Find 4 Contaminated Meat and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "4",
+                "name": "Contaminated Meat"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-06-30",
+            "url": "http://www.krosmoz.com/en/almanax/2021-06-30",
+            "bonus": "Experience gained in the Minotoror Island area is increased by 100%.",
+            "quest": "Find 3 Manderisha Skin and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "3",
+                "name": "Manderisha Skin"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-07-01",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-01",
+            "bonus": "The chances of obtaining loot from Crocodyl Chiefs are increased by 150%.",
+            "quest": "Find 4 Crocodyl Chief Scale and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "4",
+                "name": "Crocodyl Chief Scale"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-07-02",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-02",
+            "bonus": "An extra challenge is generated for fights against monsters in the Amakna Forest area.",
+            "quest": "Find 6 Boar Tusk and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "6",
+                "name": "Boar Tusk"
+            },
+            "categories": [
+                "Extra Challenge"
+            ]
+        },
+        {
+            "date": "2021-07-03",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-03",
+            "bonus": "Alchemists have a 10% chance of keeping their ingredients when they craft items.",
+            "quest": "Find 7 Mini Healing Potion and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "7",
+                "name": "Mini Healing Potion"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-07-04",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-04",
+            "bonus": "The quality of items crafted in Amakna Village and Forest is increased.",
+            "quest": "Find 2 Sesame Seed Bread and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Sesame Seed Bread"
+            },
+            "categories": [
+                "Crafting quality increase"
+            ]
+        },
+        {
+            "date": "2021-07-05",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-05",
+            "bonus": "Bonuses gained by completing challenges are increased by 200% in Tanukou\u00ef San's Workshop.",
+            "quest": "Find 1 Magic Tanuki Hairs and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Magic Tanuki Hairs"
+            },
+            "categories": [
+                "Challenge rate bonus"
+            ]
+        },
+        {
+            "date": "2021-07-06",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-06",
+            "bonus": "The quantity of Kittenfish, Ediem Carp, Pike andEel harvested by Fishermen is increased by 150%.",
+            "quest": "Find 40 Kittenfish and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "40",
+                "name": "Kittenfish"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-07-07",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-07",
+            "bonus": "The chances of obtaining loot in the Tears of Ouronigride area are increased by 100%.",
+            "quest": "Find 2 Solfatara Residue and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Solfatara Residue"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-07-08",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-08",
+            "bonus": "Experience gained by fighting Gobkools and Cave Gobballs is increased by 200%.",
+            "quest": "Find 8 Gobkool Wool and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "8",
+                "name": "Gobkool Wool"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-07-09",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-09",
+            "bonus": "Experience gains are increased by 50% for all harvesting professions.",
+            "quest": "Find 20 Ash Wood and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "20",
+                "name": "Ash Wood"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-07-10",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-10",
+            "bonus": "All varieties of Plum Dragoturkey will give birth to one extra baby.",
+            "quest": "Find 1 Eco Bow and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Eco Bow"
+            },
+            "categories": [
+                "Breeding bonus"
+            ]
+        },
+        {
+            "date": "2021-07-11",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-11",
+            "bonus": "The quantity of Bauxite harvested by miners is increased by 150%.",
+            "quest": "Find 10 Bauxite and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "10",
+                "name": "Bauxite"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-07-12",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-12",
+            "bonus": "Bonuses gained by completing challenges are increased by 200% in the Icefields area.",
+            "quest": "Find 2 Mastogob Wool and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Mastogob Wool"
+            },
+            "categories": [
+                "Challenge rate bonus"
+            ]
+        },
+        {
+            "date": "2021-07-13",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-13",
+            "bonus": "Experience gained in the Tears of Ouronigride area is increased by 100%.",
+            "quest": "Find 2 Atomystique Stone and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Atomystique Stone"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-07-14",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-14",
+            "bonus": "Experience gained from Kolossium fights is increased by 100%.",
+            "quest": "Find 2 Broken Chains and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Broken Chains"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-07-15",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-15",
+            "bonus": "The quantity of Marbled Meat harvested by Hunters is increased by 125%.",
+            "quest": "Find 3 Marbled Meat and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "3",
+                "name": "Marbled Meat"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-07-16",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-16",
+            "bonus": "The chances of obtaining loot from Vulkania monsters are increased by 75%.",
+            "quest": "Find 2 Venerable Mud and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Venerable Mud"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-07-17",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-17",
+            "bonus": "Experience gains and the chances of obtaining loot are increased by 25% in the Astrub Meadow zone.",
+            "quest": "Find 4 Evil Dandelion Flower and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "4",
+                "name": "Evil Dandelion Flower"
+            },
+            "categories": [
+                "Drop rate",
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-07-18",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-18",
+            "bonus": "Craftsmen have a 15% chance of keeping their ingredients when they craft items in the Gobball Corner area.",
+            "quest": "Find 5 Shrubstrate and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "5",
+                "name": "Shrubstrate"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-07-19",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-19",
+            "bonus": "Experience gained in the Grotto Hesque is increased by 125%.",
+            "quest": "Find 2 Coralator Coccyx and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Coralator Coccyx"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-07-20",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-20",
+            "bonus": "Cereals harvested by farmers will reappear 100% more quickly than usual.",
+            "quest": "Find 1 Wild Sunflower Oil and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Wild Sunflower Oil"
+            },
+            "categories": [
+                "Ressource respawn rate"
+            ]
+        },
+        {
+            "date": "2021-07-21",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-21",
+            "bonus": "The chances of obtaining loot in the Zoth Village area are increased by 100%.",
+            "quest": "Find 2 Precious Zoth Stone and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Precious Zoth Stone"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-07-22",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-22",
+            "bonus": "An extra challenge is generated for fights against Frigost Village monsters.",
+            "quest": "Find 2 Gullipop Feather and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Gullipop Feather"
+            },
+            "categories": [
+                "Extra Challenge"
+            ]
+        },
+        {
+            "date": "2021-07-23",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-23",
+            "bonus": "Fertile Rhineetles of all varieties will give birth to one extra baby.",
+            "quest": "Find 40 Grawn and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "40",
+                "name": "Grawn"
+            },
+            "categories": [
+                "Breeding bonus"
+            ]
+        },
+        {
+            "date": "2021-07-24",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-24",
+            "bonus": "The quantity of Aspen, Holy Bamboo and Elm wood harvested by lumberjacks is increased by 200%.",
+            "quest": "Find 1 Elm Wood and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Elm Wood"
+            },
+            "categories": [
+                "Gathering rate"
+            ]
+        },
+        {
+            "date": "2021-07-25",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-25",
+            "bonus": "Bonuses gained by completing challenges are increased by 150% against creatures in the Pig family.",
+            "quest": "Find 1 Blodz Uker Skin and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "1",
+                "name": "Blodz Uker Skin"
+            },
+            "categories": [
+                "Challenge rate bonus"
+            ]
+        },
+        {
+            "date": "2021-07-26",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-26",
+            "bonus": "Experience gained in the Lonesome Pine Trails area is increased by 100%.",
+            "quest": "Find 2 Cromagmunk Tail and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Cromagmunk Tail"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-07-27",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-27",
+            "bonus": "Hunters have a 10% chance of keeping their ingredients when they craft items.",
+            "quest": "Find 8 Astrubian Fritter and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "8",
+                "name": "Astrubian Fritter"
+            },
+            "categories": [
+                "Crafting save"
+            ]
+        },
+        {
+            "date": "2021-07-28",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-28",
+            "bonus": "The reward bonus on groups of monsters increases every 3 hours in the Snowy Forest and Sakai Plain areas.",
+            "quest": "Find 2 Stabba Fibula and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Stabba Fibula"
+            },
+            "categories": [
+                "Zone bonus rate"
+            ]
+        },
+        {
+            "date": "2021-07-29",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-29",
+            "bonus": "The chances of obtaining loot in the Tanukou\u00ef San's Workshop dungeon are increased by 125%.",
+            "quest": "Find 5 Shinobuubusu Mask and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "5",
+                "name": "Shinobuubusu Mask"
+            },
+            "categories": [
+                "Drop rate"
+            ]
+        },
+        {
+            "date": "2021-07-30",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-30",
+            "bonus": "Experience gains and the chances of dropping loot are increased by 125% in the Haunted House dungeon.",
+            "quest": "Find 4 Vampire Blood and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "4",
+                "name": "Vampire Blood"
+            },
+            "categories": [
+                "Drop rate",
+                "Exp rate"
+            ]
+        },
+        {
+            "date": "2021-07-31",
+            "url": "http://www.krosmoz.com/en/almanax/2021-07-31",
+            "bonus": "Experience gained by fighting Vulkania monsters is increased by 75%.",
+            "quest": "Find 2 Novice Powder and take the offering to Antyklime Ax",
+            "item": {
+                "quantity": "2",
+                "name": "Novice Powder"
+            },
+            "categories": [
+                "Exp rate"
+            ]
+        }
+    ]
+}
