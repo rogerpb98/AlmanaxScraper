@@ -24,19 +24,4 @@ if isinstance(file_data, list):
 else:
     Collection.insert_one(file_data)
 
-<<<<<<< HEAD
-client = pymongo.MongoClient(uri)
-db = client.DofusData
-collection = db.Almanax
-requesting = []
-
-with open("../data.json", "r") as data_file:
-    for jsonObj in data_file:
-        data = json.loads(jsonObj)
-        requesting.append(InsertOne(data))
-
-result = collection.bulk_write(requesting)
-client.close()
-=======
 myclient.close()
->>>>>>> 7ae74036a97a73b9c8e3f718e1ec607f250bc8af
