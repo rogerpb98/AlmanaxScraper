@@ -86,13 +86,12 @@ def overwriteJsonData(data):
         json.dump(data, outfile)
 
 def main():
-    start_date = datetime.date(2021, 5, 1)
+    start_date = datetime.date(2021, 12, 21)
     end_date = datetime.date(2021, 12, 31)
 
     delta = datetime.timedelta(days=1)
 
-    data = {}
-    data['Almanax'] = []
+    data = []
 
     while start_date <= end_date: #Iterate through all dates
         url = "http://www.krosmoz.com/en/almanax/"+str(start_date)+""
