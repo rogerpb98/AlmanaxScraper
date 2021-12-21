@@ -13,10 +13,10 @@ db = client.DofusData
 collection = db.Almanax
 requesting = []
 
-with open(r"../data.json") as f:
-    for jsonObj in f:
-        myDict = json.loads(jsonObj)
-        requesting.append(InsertOne(myDict))
+with open("../data.json", "r") as data_file:
+    for jsonObj in data_file:
+        data = json.loads(jsonObj)
+        requesting.append(InsertOne(data))
 
 result = collection.bulk_write(requesting)
 client.close()

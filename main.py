@@ -86,7 +86,7 @@ def overwriteJsonData(data):
         json.dump(data, outfile)
 
 def main():
-    start_date = datetime.date(2021, 5, 1)
+    start_date = datetime.date(2021, 12, 20)
     end_date = datetime.date(2021, 12, 31)
 
     delta = datetime.timedelta(days=1)
@@ -105,15 +105,15 @@ def main():
         categories = defineCategory(bonus)
 
         data['Almanax'].append({
-            'date': str(start_date),
-            'url': url,
-            'bonus': bonus,
-            'quest' : quest,
-            'item': {
-                'quantity': item[0],
-                'name': " ".join(item[1:]) #Concatenates every word of the item name
+            "date": str(start_date),
+            "url": url,
+            "bonus": bonus,
+            "quest" : quest,
+            "item": {
+                "quantity": item[0],
+                "name": " ".join(item[1:]) #Concatenates every word of the item name
             },
-            'categories' : categories
+            "categories" : categories
         })
         start_date += delta
     
