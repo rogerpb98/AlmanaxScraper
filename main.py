@@ -104,7 +104,7 @@ def main():
         categories = defineCategory(bonus)
 
         data.append({
-            "date": str(start_date),
+            "date": { "$date": str(start_date)},
             "url": url,
             "bonus": bonus,
             "quest" : quest,
