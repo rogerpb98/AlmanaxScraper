@@ -84,7 +84,7 @@ def overwriteJsonData(data):
         json.dump(data, outfile)
 
 def main():
-    start_date = datetime.date(2021, 12, 1)
+    start_date = datetime.date(2021, 12, 24)
     end_date = datetime.date(2022, 12, 31)
 
     delta = datetime.timedelta(days=1)
