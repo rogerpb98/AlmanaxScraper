@@ -15,6 +15,8 @@ Collection = db["Almanax"]
 # Loading or Opening the json file
 with open('data.json') as file:
     file_data = json.load(file)
+
+Collection.drop()
       
 # Inserting the loaded data in the Collection
 # if JSON contains data more than one entry
