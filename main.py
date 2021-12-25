@@ -1,6 +1,9 @@
 from bs4 import BeautifulSoup
+#from datetime import datetime
 import requests
 import datetime
+from datetime import timedelta
+from datetime import datetime
 import json
 
 def sanitizeString(string):
@@ -34,7 +37,6 @@ def extractQuest(document):
     almanaxQuest = str(children[2]) #this is where the quest itself is
 
     almanaxQuest = sanitizeString(almanaxQuest)
-    #print(almanaxQuest)
     return almanaxQuest
 
 def extractItemImage(document):
@@ -50,7 +52,6 @@ def extractItemImage(document):
     almanaxItemImage = almanaxItemImage[x:y]
 
     almanaxItemImage = sanitizeString(almanaxItemImage)
-    print(almanaxItemImage)
     return almanaxItemImage
 
 def extractItem(string):
@@ -100,10 +101,11 @@ def overwriteJsonData(data):
         json.dump(data, outfile)
 
 def main():
-    start_date = datetime.date(2021, 12, 24)
-    end_date = datetime.date(2021, 12, 24)
+    start_date = datetime.date(datetime.today())
+    year = timedelta(days=365)
+    end_date = start_date + year
 
-    delta = datetime.timedelta(days=1)
+    delta = timedelta(days=1)
 
     data = []
 
