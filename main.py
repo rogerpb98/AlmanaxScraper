@@ -37,6 +37,22 @@ def extractQuest(document):
     #print(almanaxQuest)
     return almanaxQuest
 
+def extractItemImage(document):
+    #Find the div where the almanax quest is
+    questDiv = document.find("div", {"class": "more-infos-content"})
+    #Extract the contents into an array because its a fucking mess
+    elements = questDiv.contents
+    #print(str(elements[1]))
+    almanaxItemImage = str(elements[1]) #this is where the quest itself is
+    # Extract where the link start and ends to substring it
+    x = almanaxItemImage.find("http")
+    y = (almanaxItemImage.find("png"))+3
+    almanaxItemImage = almanaxItemImage[x:y]
+
+    almanaxItemImage = sanitizeString(almanaxItemImage)
+    print(almanaxItemImage)
+    return almanaxItemImage
+
 def extractItem(string):
     string = string.replace("Find ", '')
     string = string.replace(" and take the offering to Antyklime Ax", '')
@@ -73,12 +89,12 @@ def defineCategory(string):
         if "Exp rate" not in cats:
             cats.append("Combat Xp")
         if "Drop rate" not in cats:
-            cats.append("Drop")
+            cats.append("drop")
     # etc
     if string.find("Perceptors") >= 0:
-        cats.append("Perceptor")
+        cats.append("perceptor")
     if not cats:
-        cats.append("Miscellaneous")
+        cats.append("miscellaneous")
     return cats
 
 def overwriteJsonData(data):
@@ -87,7 +103,7 @@ def overwriteJsonData(data):
 
 def main():
     start_date = datetime.date(2021, 12, 24)
-    end_date = datetime.date(2022, 12, 31)
+    end_date = datetime.date(2021, 12, 24)
 
     delta = datetime.timedelta(days=1)
 
@@ -101,6 +117,7 @@ def main():
         bonus = extractBonus(doc)
         quest = extractQuest(doc)
         item = extractItem(quest)
+        item_img = extractItemImage(doc)
         categories = defineCategory(bonus)
 
         data.append({
@@ -110,7 +127,8 @@ def main():
             "quest" : quest,
             "item": {
                 "quantity": item[0],
-                "name": " ".join(item[1:]) #Concatenates every word of the item name
+                "name": " ".join(item[1:]), #Concatenates every word of the item name
+                "img": item_img
             },
             "categories" : categories
         })
