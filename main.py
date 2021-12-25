@@ -66,9 +66,9 @@ def defineCategory(string):
     if string.find("more quickly") >= 0 or string.find("quantity") >= 0 or string.find("resource protectors") >= 0:
         cats.append("Gathering")
     if string.find("save") >= 0 or string.find(" chance ") >= 0:
-        cats.append("Crafting save")
+        cats.append("Save")
     if string.find("quality") >= 0:
-        cats.append("Crafting quality")
+        cats.append("Quality")
     if string.find("birth ") >= 0:
         cats.append("Breeding")
     # Combat
@@ -78,16 +78,14 @@ def defineCategory(string):
         profs = ["Alchemist", "Artificer", "Carver", "Craftsmen", "Smith", "Farmer", "Fisherman", "Handyman", "Hunter", "Jeweller", "Lumberjack", "Miner", "Shoemaker", "Tailor", "professions"]
         for i in profs:
             if string.find(i) >=0:
-                cats.append("Profession Xp")
+                cats.append("ProfXP")
                 break
         if "Profession Xp" not in cats:
-            cats.append("Combat Xp")
-    if string.find("reward bonus") >= 0:
-        cats.append("Zone rate")
+            cats.append("CombatXP")
     if string.find("completing challenges") >= 0 or string.find("challenge ") >= 0:
         cats.append("Challenge")
         if "Exp rate" not in cats:
-            cats.append("Combat Xp")
+            cats.append("CombatXP")
         if "Drop rate" not in cats:
             cats.append("drop")
     # etc
