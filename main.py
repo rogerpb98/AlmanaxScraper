@@ -64,28 +64,28 @@ def defineCategory(string):
     cats = []
     # Professions
     if string.find("more quickly") >= 0 or string.find("quantity") >= 0 or string.find("resource protectors") >= 0:
-        cats.append("Gathering")
+        cats.append("gathering")
     if string.find("save") >= 0 or string.find(" chance ") >= 0:
-        cats.append("Save")
+        cats.append("save")
     if string.find("quality") >= 0:
-        cats.append("Quality")
+        cats.append("quality")
     if string.find("birth ") >= 0:
-        cats.append("Breeding")
+        cats.append("breeding")
     # Combat
     if string.find("chances") >= 0:
-        cats.append("Drop")
+        cats.append("drop")
     if string.find("Experience") >= 0:
         profs = ["Alchemist", "Artificer", "Carver", "Craftsmen", "Smith", "Farmer", "Fisherman", "Handyman", "Hunter", "Jeweller", "Lumberjack", "Miner", "Shoemaker", "Tailor", "professions"]
         for i in profs:
             if string.find(i) >=0:
-                cats.append("ProfXP")
+                cats.append("profxp")
                 break
         if "Profession Xp" not in cats:
-            cats.append("CombatXP")
+            cats.append("combatxp")
     if string.find("completing challenges") >= 0 or string.find("challenge ") >= 0:
-        cats.append("Challenge")
+        cats.append("challenge")
         if "Exp rate" not in cats:
-            cats.append("CombatXP")
+            cats.append("combatxp")
         if "Drop rate" not in cats:
             cats.append("drop")
     # etc
