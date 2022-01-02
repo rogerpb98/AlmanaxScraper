@@ -25,5 +25,7 @@ if isinstance(file_data, list):
     Collection.insert_many(file_data)  
 else:
     Collection.insert_one(file_data)
+      
+# Collection.updateMany({},[{"$set":{"date":{"$dateFromString":{"dateString":"$date"}}}}])
 
 myclient.close()
